@@ -7,7 +7,7 @@ public class VariableApp {
         System.out.println("My favorite color is" + favoriteColor);
 
         //question 2 : year started at year up
-        String yearstarted ="2026";
+        int yearstarted ="2026";
         System.out.println("The year i started is " +yearstarted );
 
     }
